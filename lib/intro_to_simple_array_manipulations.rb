@@ -19,3 +19,18 @@ def using_shift(array)
 end
 
 def shift_with_args()
+  
+end
+
+def using_concat()
+  
+end
+
+def using_insert()
+  
+end
+
+def using_uniq()
+  
+end
+
